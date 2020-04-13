@@ -1,5 +1,10 @@
 # hackrf one gps
 
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/sollyu/hackrf_one_gps/Java CI with Gradle)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/sollyu/hackrf_one_gps)
+![GitHub Release Date](https://img.shields.io/github/release-date/sollyu/hackrf_one_gps)
+![GitHub](https://img.shields.io/github/license/sollyu/hackrf_one_gps)
+
 ## 说明
 
 这个工程是一个方便Windows用户在使用hackrf one模拟GPS信号时的各种麻烦的操作。
