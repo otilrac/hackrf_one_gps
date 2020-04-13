@@ -1,0 +1,12 @@
+# 经纬度设置
+location:
+  height: 100
+  latitude: 12.012
+  longitude: 123.1212
+
+
+# 代理设置
+proxy:
+  enable: false
+  host: 127.0.0.1
+  port: 1080
