@@ -10,7 +10,7 @@
 
 ## 预览
 
-![image-20200413155059767](D:\Projects\Java\imdada\hackrf_one_gps\readme.assets\image-20200413155059767.png)
+![image-20200413155059767](./readme.assets/image-20200413155059767.png)
 
 ## 调试
 
@@ -20,7 +20,7 @@
 build/install/hackrf_one_gps
 ```
 
-![image-20200413143822172](D:\Projects\Java\imdada\hackrf_one_gps\readme.assets\image-20200413143822172.png)
+![image-20200413143822172](./readme.assets/image-20200413143822172.png)
 
 ## 其他
 
