@@ -1,6 +1,6 @@
 # hackrf one gps
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/sollyu/hackrf_one_gps/Java CI with Gradle)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/sollyu/hackrf_one_gps/Java%20CI%20with%20Gradle)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/sollyu/hackrf_one_gps)
 ![GitHub Release Date](https://img.shields.io/github/release-date/sollyu/hackrf_one_gps)
 ![GitHub](https://img.shields.io/github/license/sollyu/hackrf_one_gps)
