@@ -128,8 +128,9 @@ class Application {
         logger.info("　　　2. 关闭手机的AGPS等配置，使用仅GPS定位")
         logger.info("　　　3. 将手机尽量的靠近发射天线处")
         logger.info("　　　4. 手机应先使用地图或者GPS检查软件判断定位是否成功")
-        logger.info("如若想退出发送，可直接关闭发送数据窗口。")
-        val sendSingleCommand: Array<String> = arrayOf("cmd.exe", "/C", "start", "/WAIT", "hackrf_transfer", "-t", "gpssim.bin", "-f", "1575420000", "-s", "2600000", "-a", "1", "-x", "0", "-R")
+        logger.info("　　　5. 将手机移动到室内，尽量避免有室外GPS信号干扰")
+        logger.info("如若想退出发送，请在发送数据窗口按下：【Ctrl+C】")
+        val sendSingleCommand: Array<String> = arrayOf("cmd.exe", "/C", "start", "/WAIT", "hackrf_transfer", "-t", "gpssim.bin", "-f", "1575420000", "-s", "2600000", "-a", "1", "-x", "40", "-R")
         logger.debug("main|sendSingleCommand={}", sendSingleCommand)
         exec(*sendSingleCommand)
 
